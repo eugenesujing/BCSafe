@@ -10,3 +10,5 @@ And some explanations:
 1.	It is designed for mobile only. Therefore, some functionality may not perform well in computer’s browser.
 2.	It’s html-based static website 
 3.	Most pages are responsive to different screen size. 
+
+A link to the deployed site:https://restaurantsafe.hostman.site/
