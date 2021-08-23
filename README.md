@@ -11,4 +11,4 @@ And some explanations:
 2.	It’s html-based static website 
 3.	Most pages are responsive to different screen size. 
 
-A link to the deployed site:https://restaurantsafe.hostman.site/
+A link to the deployed site:https://bcsafe.hostman.site/
